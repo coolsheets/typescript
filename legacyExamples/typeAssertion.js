@@ -1,0 +1,13 @@
+"use strict";
+// let food = {};
+// food.price = 5;
+// food.name = 'hamburger';
+let cheese = "mozerella";
+var food = {};
+food.price = 5;
+food.name = 'hamburger';
+food.texture = "mushy";
+let drink = {};
+drink.price = 1.50;
+drink.name = "pepsi";
+console.log(drink.texture);
